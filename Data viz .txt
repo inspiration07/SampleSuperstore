@@ -1,0 +1,3 @@
+Using the EDA performed in SQL queries, built a dasboard using Tableau.
+
+https://public.tableau.com/app/profile/subodh.h.bharadwaj/viz/SuperstoreDashboardKPI_16270171911900/Profitdash
